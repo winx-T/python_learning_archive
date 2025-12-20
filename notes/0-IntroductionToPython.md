@@ -1,4 +1,5 @@
-<img src="https://github.com/winx-T/python_learning_archive/blob/main/python-240.png?raw=true" alt="C++ Logo" width="150" />
+<img src="https://github.com/winx-T/python_learning_archive/blob/main/icons/python-240.png" alt="python Logo" width="150" />
+
 ## Python Definition
 
  > **Python** is an **interpreted** *(executed line-by-line at run time by the Python interpreter)* **general purpose** or **multi-purpose** *(It can be used in multiple domains)* **high level** *(easily understood by humans)* programming language with **easy syntax** *(simpler compared to languages like C, C++, or Java)* and **dynamic semantics** *(variables are dynamic objects in Python, meaning you do not need to specify a variable's type when declaring it)*.

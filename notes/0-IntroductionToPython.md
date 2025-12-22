@@ -1,10 +1,13 @@
-<img src="https://github.com/winx-T/python_learning_archive/blob/main/icons/python-240.png" alt="python Logo" width="150" />
+[<img src="https://raw.githubusercontent.com/winx-T/python_learning_archive/main/icons/python-240.png" alt="Python Logo" width="150" />](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## Python Definition
 
  > **Python** is an **interpreted** *(executed line-by-line at run time by the Python interpreter)* **general purpose** or **multi-purpose** *(It can be used in multiple domains)* **high level** *(easily understood by humans)* programming language with **easy syntax** *(simpler compared to languages like C, C++, or Java)* and **dynamic semantics** *(variables are dynamic objects in Python, meaning you do not need to specify a variable's type when declaring it)*.
 
-* created by **Guido van Rossum**
+- Created by **Guido van Rossum**
+  [<img src="https://raw.githubusercontent.com/winx-T/python_learning_archive/main/icons/Guido_van_Rossum.jpg" alt="Guido van Rossum" width="150" />]
+- Developed between **1985 and 1990**
+- Named after the British comedy series **_Monty Python's Flying Circus_**
 * The language was developed during the period of 1985 to 1990 .
 * He named the language after the British comedy series, **Monty Python's Flying Circus**.
 

@@ -1,5 +1,6 @@
 # =================================================
 # Variables in Python are dynamic; you don't declare types explicitly.
+# A variable is a label given to some object.
 # The interpreter infers the type based on the assigned value.
 # =================================================
 
